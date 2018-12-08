@@ -3,11 +3,8 @@ title: "HelloWorld"
 author: "GN"
 date: "December 7, 2018"
 output: html_document
+version: 2
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
 
